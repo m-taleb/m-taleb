@@ -1,5 +1,4 @@
-# Hi 
-I’m working on cryptography
+# I’m working on cryptography
 
 <!--
 **m-taleb/m-taleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
